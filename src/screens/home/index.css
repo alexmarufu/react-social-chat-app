@@ -1,0 +1,23 @@
+.friend {
+   text-align: start;
+   color: white;
+   background-color: #1877F2;
+}                   
+
+.me {
+    text-align: end;
+    color: rgb(31, 31, 31);
+    background-color: #e0e0e0;
+ }                   
+
+ .border {
+    border: 1px solid #373737;
+    padding: 10px;
+    border-radius: 50%;
+ }
+
+ .parent-border {
+   border: 1px solid #535353;
+   border-bottom-width: 0;
+   padding: 10px;
+ }
